@@ -94,5 +94,26 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\forward.png" />
+    <Resource Include="Images\open.png" />
+    <Resource Include="Images\pause.png" />
+    <Resource Include="Images\play.jpg" />
+    <Resource Include="Images\playlist.png" />
+    <Resource Include="Images\stop.png" />
+    <Resource Include="Images\volume.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Rewind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Music.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
